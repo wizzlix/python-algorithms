@@ -6,6 +6,7 @@
 * GCD
 * ReverseString
 * Swap
+* Fibonacci
 
 ## Sort:
 
