@@ -10,7 +10,7 @@ def timer(func):
 
     return wrapper
 
-from simple import Factorial, GCD, ReverseString, Swap
+from simple import Factorial, GCD, ReverseString, Swap, Fibonacci
 
 #region Simple
 
@@ -19,6 +19,7 @@ print("Factorial: "     + str(Factorial.factorial(5)))
 print("GCD: "           + str(GCD.gcd(30,18)))
 print("ReverseString: " + str(ReverseString.reverse_string("Hello, wizzlix!")))
 print("Swap: "          + str(Swap.swap(5, 6)))
+print("Fibonacci: "     + str(Fibonacci.fibonacci(21)))
 
 print("-"*20)
 
