@@ -1,16 +1,16 @@
-#wizzlix-python-algorithms
+# wizzlix-python-algorithms
 
-##Simple:
+## Simple:
 
-*Factorial
-*GCD
-*ReverseString
-*Swap
+* Factorial
+* GCD
+* ReverseString
+* Swap
 
-##Sort:
+## Sort:
 
-*Selection sort
+* Selection sort
 
-##Search:
+## Search:
 
-*BinarySearch
+* BinarySearch
