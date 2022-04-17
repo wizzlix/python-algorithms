@@ -11,6 +11,7 @@
 ## Sort:
 
 * Selection sort
+* Quick sort
 
 ## Search:
 
